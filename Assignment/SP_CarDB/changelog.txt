@@ -1,0 +1,35 @@
+﻿// <--- 09/04/2023 @Alex Created webform and class Car.
+// <--- 10/04/2023 @Alex Boolean for 'is Available' webform checkbox was missing from class Car. Added a auto-implemented property and the constructor for it.
+// <--- 10/04/2023 @Alex TODO Not all SpeedyCarform.Designer.cs button labels follow naming norms. Need to rename them accordingly. 
+// <--- 10/04/2023 @Alex TODO There is a button missing from the form, forgot to add it. It is the central button from the lower bar that enumerates between the array of cars. Needs to be added. 
+// <--- 10/04/2023 @Alenka The files aren’t named as per Brian’s instructions. I tried renaming them but renaming broke some code so I left them unchanged. They should be named as follows: Save the form files as frmCars and frmSearch and the Project as CarsDatabase.
+// <--- 10/04/2023 @Alenka Slightly realigned a few elements on the form
+// <--- 10/04/2023 @Alenka renamed Form 2 to FrmCars as per Brian's instructions + text displayed from Form 2 to Task A
+// <--- 10/04/2023 @Alenka renamed Registration Number text box to txtRegistrationNumber, Make text box to txtMake, Engine Size text box to txtEngineSize, Date Registered text box to txtDateRegistered
+// <--- 10/04/2023 @Alenka renamed Rental Per Day text box to txtRentalPerDay and changed formatting to 99.99
+// <--- 11/04/2023 @Alenka created Record Count button and named it txtRecordCount
+
+// <--- 11/04/2023 @Alenka Exit button is underlined under x in Brian’s file - which is correct?
+// <--- 11/04/2023 @Alenka changed text property of the form FrmCars (see SpeedyCarForm.cs under comment //3)
+// <--- 11/04/2023 @Alenka changed the name of checkbox to chkAvailable
+// <--- 11/04/2023 @Alenka I don't know whether we need car class - Brian doesn't have it in his file
+
+// <--- 12/04/2023 @Alex Commented the whole class Car, keeping in it there just in case we might need it onwards.
+// <--- 12/04/2023 @Alex The form is showing now for editing, I just double clicked into SpeedyCarForm.cs and can see it.
+// <--- 12/04/2023 @Alex The project is named now 'CarsDatabase' and the form 'frmCars' as suggested. Edit the parts so that the code works after the renaming.
+
+// <--- 21/04/2023 @Alex The 200 ambiguity errors were caused by using the wrong namespace. Every namespace must be onwards 'CarsDatabase´instead of the old 'SP_CarDB' renamed all accordingly. Errors are gone now.
+// <--- 21/04/2023 @Alex Removed class Car as it looks we will not need it. I have a local copy anyways. Cleaned up the tree.
+
+// <--- 23/04/2023 @Alenka Corrected the typo of double // in the date on the frmCars.cs form
+// <--- 23/04/2023 @Alenka Created frmSearch (tasks 15 and 16 in Brian's instructions)
+// <--- 23/04/2023 @Alenka Created SQL database Hire with tblCar but couldn't connect to it; also, how does this work when collaborating since it is bound to my computer?
+
+// <--- 24/04/2023 @Alex --> This version connects to the database. You need to install a NuGet Package in order to make it work:
+
+1. Right-click on your project in the Solution Explorer.
+2. Choose "Manage NuGet Packages".
+3. On the "Browse" tab and search for "System.Data.SqlClient".
+4. Select the package and click "Install" to add it to your project.
+
+// The buttons need to be implemented yet, but this one step solved towards it.

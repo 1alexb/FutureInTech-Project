@@ -1,0 +1,51 @@
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.exe
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.deps.json
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.runtimeconfig.json
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.dll
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.pdb
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.csproj.AssemblyReference.cache
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.SpeedyCarForm.resources
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.csproj.GenerateResource.cache
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.AssemblyInfoInputs.cache
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.AssemblyInfo.cs
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.csproj.CoreCompileInputs.cache
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.dll
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\refint\SP_CarDB.dll
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.pdb
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.genruntimeconfig.cache
+C:\Users\barqu\source\repos\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\ref\SP_CarDB.dll
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.exe
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.deps.json
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.runtimeconfig.json
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.dll
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.pdb
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.csproj.AssemblyReference.cache
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.csproj.GenerateResource.cache
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.AssemblyInfoInputs.cache
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.AssemblyInfo.cs
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.csproj.CoreCompileInputs.cache
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.dll
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\refint\SP_CarDB.dll
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.pdb
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.genruntimeconfig.cache
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\ref\SP_CarDB.dll
+C:\Users\Alenka\Desktop\Software Developer Course\Project_Mentoring\Group Project\Assignment20_04_2023_update_11042023\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.FrmCars.resources
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.exe
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.deps.json
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.runtimeconfig.json
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.dll
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\bin\Debug\net6.0-windows\SP_CarDB.pdb
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.csproj.AssemblyReference.cache
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.FrmCars.resources
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.csproj.GenerateResource.cache
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.AssemblyInfoInputs.cache
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.AssemblyInfo.cs
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.csproj.CoreCompileInputs.cache
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.dll
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\refint\SP_CarDB.dll
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.pdb
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\SP_CarDB.genruntimeconfig.cache
+C:\Users\barqu\Downloads\Assignment20_04_2023_update_11042023_Alenka\Assignment20_04_2023_update_11042023_Alenka\SP_CarDB\SP_CarDB\obj\Debug\net6.0-windows\ref\SP_CarDB.dll
